@@ -71,4 +71,4 @@ We welcome contributions to this repository. If you have any suggestions or impr
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/cifar10-deeplearning-docker-k8s/notebooks/cifar10_training.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oscarTMa/deeplearning/notebooks/DataSetCIFAR10_NVIDIA_DIGITS.ipynb)
