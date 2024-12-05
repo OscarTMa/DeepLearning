@@ -70,5 +70,5 @@ We welcome contributions to this repository. If you have any suggestions or impr
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oscarTMa/deeplearning/notebooks/DataSetCIFAR10_NVIDIA_DIGITS.ipynb)
+## Colab   notebooks
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oscarTMa/OscarTMa/DeepLearning/tree/master/notebooks/DataSetCIFAR10_NVIDIA_DIGITS.ipynb)
