@@ -64,6 +64,9 @@ For example, to run a model on the CIFAR-10 dataset:
 cd CIFAR-10
 python train_model.py
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/cifar10-deeplearning-docker-k8s/notebooks/cifar10_training.ipynb)
+
+
 
 ## Contributing
 We welcome contributions to this repository. If you have any suggestions or improvements, please open an issue or submit a pull request.
