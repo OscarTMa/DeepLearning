@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cifar10-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: cifar10
+  template:
+    metadata:
+      labels:
+        app: cifar10
+    spec:
+      containers:
+      - name: cifar10-api
+        image: oscartma/cifar10-api:latest  # Cambia "usuario" por tu nombre de usuario de Docker Hub
+        ports:
+        - containerPort: 5000
